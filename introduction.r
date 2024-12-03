@@ -56,3 +56,6 @@ repeat {
 # } else {
 #    print("Error")
 # }
+
+# Vectors in R
+
